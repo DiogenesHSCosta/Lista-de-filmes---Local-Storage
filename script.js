@@ -106,7 +106,7 @@ btn1.addEventListener('click',()=>{
     inputUsuario.value = ''
 })
 /*
-WesleyMan
+WesleyMan de Osasco
 */
 
 const favoritoClicado = (eventoDeClique) => {
